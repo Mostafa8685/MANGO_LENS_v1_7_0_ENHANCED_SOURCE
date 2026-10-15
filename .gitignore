@@ -1,0 +1,19 @@
+# Flutter / Dart generated files
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Local Android SDK path and private release signing files
+android/local.properties
+android/key.properties
+android/*.jks
+android/*.keystore
+
+# IDEs and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
